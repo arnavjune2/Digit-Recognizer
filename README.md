@@ -8,4 +8,6 @@ that pixel, with higher numbers meaning darker. This pixel-value is an integer b
 
 
 download datasets: https://www.kaggle.com/c/digit-recognizer/data
+
+
 compitition link: https://www.kaggle.com/c/digit-recognizer
